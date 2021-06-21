@@ -1,0 +1,25 @@
+.header_class{
+    display: flex;
+    justify-content: space-between;
+}
+.login{
+    align-self: flex-end;
+}
+.center{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.right{
+    margin-right: 20vw;
+}
+.left{
+    margin-left: 20vw;
+
+}
+.underimage{
+    color: darkgrey;
+}
