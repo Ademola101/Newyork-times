@@ -1,6 +1,7 @@
 .header_container{
     display: flex;
     justify-content: space-between;
+
 }
 
 .container{
@@ -23,11 +24,13 @@ img{
 }
 article{
     font-size: larger;
-    letter-spacing:normal
+    letter-spacing:normal;
+    font-family: "Benne";
 }
 .login{
     text-decoration: none; color:white;background-color: rgb(153, 122, 182);
     padding: 5px;
+    
 
 }
 .inflation{
