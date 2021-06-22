@@ -36,9 +36,7 @@ article{
 .inflation{
     display: flex;
     }
-.inf_center{
 
-}
 .inf_right{margin-right: 15vw;
 
 }
@@ -51,4 +49,10 @@ article{
 }
 .rest{
     margin-right: 9px;
+}
+.icon{
+    margin-top: 10px;
+}
+.ispace{
+    margin-left: 10px;
 }
